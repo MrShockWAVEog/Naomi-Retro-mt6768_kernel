@@ -35,6 +35,7 @@
 #include <linux/workqueue.h>
 #include <linux/delayed_call.h>
 #include <linux/uuid.h>
+#include <linux/blk_types.h>
 #include <linux/errseq.h>
 
 #include <asm/byteorder.h>
